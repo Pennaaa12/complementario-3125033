@@ -1,0 +1,21 @@
+Library,Description
+Django,A high-level Python web framework that simplifies the development of secure and scalable web applications
+React.js,"A powerful library for building user interfaces, known for its component-based architecture and performance"
+Vue.js,"A flexible and lightweight JavaScript framework, ideal for building fast and modern web apps"
+jQuery,A small but feature-rich JavaScript library that makes tasks like event handling and Ajax calls easier
+Bootstrap,A responsive framework that helps build mobile-first websites and web applications
+jQuery UI,"A library built on top of jQuery for adding user interface elements like sliders, datepickers, and tabs"
+Spring Boot,"A framework for creating stand-alone, production-grade Spring-based applications with minimal setup"
+Laravel,A PHP framework that offers a clean and elegant syntax for web development
+Flask,"A microframework for Python, perfect for small to medium-sized web applications"
+GraphQL,A query language for APIs that allows you to request only the data you need
+Ember.js,A full-featured JavaScript framework for building ambitious web applications
+Symfony,An open-source PHP framework with reusable components for building robust web applications
+Angular,A platform for building web applications with a focus on single-page applications
+Express.js,"A minimalist web framework for Node.js, great for building APIs and web applications"
+Tailwind CSS,A utility-first CSS framework for creating custom designs quickly
+Next.js,A React-based framework that allows for server-side rendering and static site generation
+Svelte,A framework that compiles components into highly optimized vanilla JavaScript at build time
+Three.js,A library for creating 3D graphics in the browser using WebGL
+Pixi.js,A fast 2D rendering engine for creating interactive graphics and games
+SASS,"A preprocessor that extends CSS with variables, nested rules, and functions for cleaner code"

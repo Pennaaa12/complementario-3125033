@@ -1,0 +1,36 @@
+Database,Usage
+PostgreSQL,51.9%
+MySQL,39.4%
+SQLite,32.1%
+Microsoft SQL Server,27.1%
+MongoDB,25.2%
+Redis,22.8%
+MariaDB,17.1%
+Elasticsearch,14.3%
+Oracle,10.3%
+Dynamodb,9.2%
+Firebase Realtime Database,5.6%
+Cloud Firestore,5.3%
+BigQuery,5%
+H2,4.3%
+Supabase,3.8%
+Cosmos DB,3.8%
+Microsoft Access,3.4%
+Snowflake,2.8%
+InfluxDB,2.6%
+Cassandra,2.6%
+Databricks SQL,1.9%
+Neo4J,1.9%
+Clickhouse,1.8%
+IBM DB2,1.8%
+Solr,1.6%
+DuckDB,1.3%
+Firebird,1.1%
+Couch DB,1%
+Cockroachdb,0.9%
+Couchbase,0.7%
+Presto,0.7%
+Datomic,0.3%
+EventStoreDB,0.3%
+RavenDB,0.3%
+TiDB,0.2%
