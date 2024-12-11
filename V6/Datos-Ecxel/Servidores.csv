@@ -1,0 +1,31 @@
+Servidores
+Nginx, 33.8%
+Apache HTTP Server, 28.3%
+Cloudflare Server, 22.6%
+LiteSpeed, 14.0%
+Microsoft-IIS, 4.3%
+Node.js, 3.8%
+Envoy, 1.0%
+Google Servers, 0.8%
+Caddy, 0.3%
+IdeaWebServer, 0.1%
+Tengine, 0.1%
+Cowboy, 0.1%
+Kestrel, 0.1%
+ArvanNginx, 0.1%
+Gunicorn, 0.1%
+Tomcat, 0.1%
+Lighttpd, 0.1%
+Jetty, 0.1%
+Resin, 0.1%
+Uvicorn, 0.1%
+Undertow, 0.1%
+Hiawatha, 0.1%
+WildFly, 0.1%
+PxShield, 0.1%
+micro_httpd, 0.1%
+WSGIserver, 0.1%
+Kangle, 0.1%
+IceWarp, 0.1%
+OpenBSD httpd, 0.15
+WEBrick, 0.1%
